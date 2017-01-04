@@ -1,4 +1,7 @@
-xinzeng jia
+def h(name)
+puts "hello #{name}"
+end
 
-ssdaasdad
-sdadadaasd
+edit 2017 jan 3th
+test for git 
+
