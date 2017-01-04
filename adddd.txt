@@ -5,3 +5,4 @@ end
 edit 2017 jan 3th
 test for git 
 
+edit for reset 
